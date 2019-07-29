@@ -33,7 +33,7 @@ namespace Linq_Samples {
                 "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
                 "0123456789"
             };
-
+            //print string characters using Linq
             IEnumerable<char> stringChar = stringArray.SelectMany (s => s);
             int size = Convert.ToInt16 (stringChar.Count ());
             foreach (char c in stringChar)
