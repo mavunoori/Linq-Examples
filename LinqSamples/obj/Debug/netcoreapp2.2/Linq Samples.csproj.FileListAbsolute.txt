@@ -1,0 +1,22 @@
+G:\VSCode Samples\Linq Samples\bin\Debug\netcoreapp2.2\Linq Samples.deps.json
+G:\VSCode Samples\Linq Samples\bin\Debug\netcoreapp2.2\Linq Samples.runtimeconfig.json
+G:\VSCode Samples\Linq Samples\bin\Debug\netcoreapp2.2\Linq Samples.runtimeconfig.dev.json
+G:\VSCode Samples\Linq Samples\bin\Debug\netcoreapp2.2\Linq Samples.dll
+G:\VSCode Samples\Linq Samples\bin\Debug\netcoreapp2.2\Linq Samples.pdb
+G:\VSCode Samples\Linq Samples\obj\Debug\netcoreapp2.2\Linq Samples.csprojAssemblyReference.cache
+G:\VSCode Samples\Linq Samples\obj\Debug\netcoreapp2.2\Linq Samples.csproj.CoreCompileInputs.cache
+G:\VSCode Samples\Linq Samples\obj\Debug\netcoreapp2.2\Linq Samples.AssemblyInfoInputs.cache
+G:\VSCode Samples\Linq Samples\obj\Debug\netcoreapp2.2\Linq Samples.AssemblyInfo.cs
+G:\VSCode Samples\Linq Samples\obj\Debug\netcoreapp2.2\Linq Samples.dll
+G:\VSCode Samples\Linq Samples\obj\Debug\netcoreapp2.2\Linq Samples.pdb
+C:\Users\owner\Documents\GitHub\Linq-Examples\LinqSamples\bin\Debug\netcoreapp2.2\Linq Samples.deps.json
+C:\Users\owner\Documents\GitHub\Linq-Examples\LinqSamples\bin\Debug\netcoreapp2.2\Linq Samples.runtimeconfig.json
+C:\Users\owner\Documents\GitHub\Linq-Examples\LinqSamples\bin\Debug\netcoreapp2.2\Linq Samples.runtimeconfig.dev.json
+C:\Users\owner\Documents\GitHub\Linq-Examples\LinqSamples\bin\Debug\netcoreapp2.2\Linq Samples.dll
+C:\Users\owner\Documents\GitHub\Linq-Examples\LinqSamples\bin\Debug\netcoreapp2.2\Linq Samples.pdb
+C:\Users\owner\Documents\GitHub\Linq-Examples\LinqSamples\obj\Debug\netcoreapp2.2\Linq Samples.csprojAssemblyReference.cache
+C:\Users\owner\Documents\GitHub\Linq-Examples\LinqSamples\obj\Debug\netcoreapp2.2\Linq Samples.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\GitHub\Linq-Examples\LinqSamples\obj\Debug\netcoreapp2.2\Linq Samples.AssemblyInfoInputs.cache
+C:\Users\owner\Documents\GitHub\Linq-Examples\LinqSamples\obj\Debug\netcoreapp2.2\Linq Samples.AssemblyInfo.cs
+C:\Users\owner\Documents\GitHub\Linq-Examples\LinqSamples\obj\Debug\netcoreapp2.2\Linq Samples.dll
+C:\Users\owner\Documents\GitHub\Linq-Examples\LinqSamples\obj\Debug\netcoreapp2.2\Linq Samples.pdb
